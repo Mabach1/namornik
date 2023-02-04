@@ -23,4 +23,5 @@ Pro vizualizaci je take mozne upravit rychlost jakou bude namornik chodit (refre
 
 ### ruzne delky mola
 Zajimalo by vas, jaka je pravdepodobnost pri ruznych delkach mola, ale nechcete si hrat s progeamem? 🤔
+
 Zde jsou [tabulky](https://docs.google.com/spreadsheets/d/1pEDCkVzpSHybAYuHYpAJt6x_jD3YWkuXaNvfHq2mxgU/edit?usp=sharing) s nekolika ruznymi delkami🥳
