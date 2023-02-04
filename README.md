@@ -1,6 +1,6 @@
 # Namornik ⛵
 
-Opily namornik se musi dostat pres molo. Jak je sance, ze nespadne do vody?🍾🍙
+Opily namornik se musi dostat pres molo. Jak je sance, ze nespadne do vody?🌊
 
 ### Zakladni princip namornika
 Namornik je tak opily, ze jeho kroky jsou naprosto nahodne. Z duvodu naproste nahodnosti se muze stat, ze namornik bude chodit tam a zpatky porad dokola.
