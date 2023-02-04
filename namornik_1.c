@@ -82,7 +82,7 @@ void grid_draw(void) {
  * 
  */
 void set_sailor(void) {
-    grid[START] = 64;
+    grid[START] = SAILOR;
 }
 /**
  * @brief funcke vrati soucasnou pozici namornika
