@@ -3,7 +3,11 @@
 Opily namornik se musi dostat pres molo. Jak je sance, ze nespadne do vody?🌊
 
 ### Zakladni princip namornika
-Namornik je tak opily, ze jeho kroky jsou naprosto nahodne. Z duvodu naproste nahodnosti se muze stat, ze namornik bude chodit tam a zpatky porad dokola.
+Namornik je tak opily, ze jeho kroky jsou naprosto nahodne. 
+
+Namornik se muze pohubovat po nasi tabulce do vsech smeru, vcetne pohybu po diagonale (samozrejme ne mimo tabulku🙄)
+
+Z duvodu naproste nahodnosti se muze stat, ze namornik bude chodit tam a zpatky porad dokola.
 Namornik teda nema v sobe zadny algoritmus, ktery by se snazil byt alespon trochu efektivni, ale presto je zde sance, ze se ve zdravi dostane pres molo.
 
 ### vizualizace namornika na mole
