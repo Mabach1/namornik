@@ -20,3 +20,7 @@ Namornik teda nema v sobe zadny algoritmus, ktery by se snazil byt alespon troch
 V programu lze upravit delku (makro Y v programu) mola (sirku jeste ne😔) a pocet nezdaru nebo vyher, ktere namornik musi podstoupit.
 
 Pro vizualizaci je take mozne upravit rychlost jakou bude namornik chodit (refresh rate console), ale pozor u console od Windows, tato console je velmi pomala a pri prislis vysokem freshratu (v programu cim nizzsi hodnota makra STEP tim rychlejsi refresh) by to nemusela byt schopna zvladat 
+
+### ruzne delky mola
+Zajimalo by vas, jaka je pravdepodobnost pri ruznych delkach mola, ale nechcete si hrat s progeamem? 🤔
+Zde jsou [tabulky](https://docs.google.com/spreadsheets/d/1pEDCkVzpSHybAYuHYpAJt6x_jD3YWkuXaNvfHq2mxgU/edit?usp=sharing) s nekolika ruznymi delkami🥳
