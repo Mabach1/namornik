@@ -13,5 +13,6 @@ Namornik teda nema v sobe zadny algoritmus, ktery by se snazil byt alespon troch
 <img width="550" alt="image" src="https://user-images.githubusercontent.com/105239325/216755887-6291e40d-024f-4f2d-b07a-7b0f63aef7cd.png">
 
 ### upravy
-V programu lze upravit delku mola (sirku jeste 😔) a pocet nezdaru nebo vyher, ktere namornik musi podstoupit 
+V programu lze upravit delku mola (sirku jeste 😔) a pocet nezdaru nebo vyher, ktere namornik musi podstoupit.
 
+Pro vizualizaci je take mozne upravit rychlost jakou bude namornik chodit (refresh rate console), ale pozor u console od Windows, tato console je velmi pomala a pri prislis vysokem freshratu (v programu cim nizzsi hodnota makra STEP tim rychlejsi refresh) by to nemusela byt schopna zvladat 
