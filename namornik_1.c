@@ -378,7 +378,7 @@ int main(void) {
         }
 
 
-        if (number_of_computations > NUM_OF_COMP) { break; }
+        if (number_of_computations >= NUM_OF_COMP) { break; }
 
         #ifdef PRINT
             grid_draw();
