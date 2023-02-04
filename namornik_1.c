@@ -10,7 +10,7 @@
 #include <time.h>               // pro generaci nahodnych cisel
 
 #define NPRINT                  // v pripade, ze chceme zobrazit simulaci namornika, staci smazat 'N'
-#define STEP        15000      // rychlost, jakou bude namornik chodit (refresh rate console)
+#define STEP        15000       // rychlost, jakou bude namornik chodit (refresh rate console)
 
 #define RUNNING     1           // nekonecna smycka
 
