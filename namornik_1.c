@@ -1,16 +1,16 @@
 /**
  * @file    namornik_1.c
- * @author  your name (you@domain.com)
+ * @author  Mabach1
  * @brief   simulace opileho namornika, ktery se musi dostat pres molo, aniz by spadl do vody
  * @version 1.0
  * 
  */
 #include <stdio.h>              // printf()
-
 #include <stdlib.h>             // system(), implicit declaration srand
 #include <time.h>               // pro generaci nahodnych cisel
 
 #define NPRINT                  // v pripade, ze chceme zobrazit simulaci namornika, staci smazat 'N'
+#define STEP        15000       // rychlost, jakou bude namornik chodit (refresh rate console)
 
 #define RUNNING     1           // nekonecna smycka
 
