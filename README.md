@@ -26,5 +26,20 @@ Zajimalo by vas, jaka je pravdepodobnost pri ruznych delkach mola, ale nechcete 
 
 Zde jsou [tabulky](https://docs.google.com/spreadsheets/d/1pEDCkVzpSHybAYuHYpAJt6x_jD3YWkuXaNvfHq2mxgU/edit?usp=sharing) s nekolika ruznymi delkami☺️
 
+# Namornik (ver. 2) 🚢
 
+## Co je jine?
 
+V druhe verzi programu 'namornik' je mozne upravovat i sirku mola. Pro upravu sirky mola jsem se zbavil orkaju tabulky, na ktere by se, teoreticky, nemel namornik nikdy dostat. Tabulka pro uprave s mole sirky 3 a dely 5 by pak vypadala nejak takto:
+
+<img width="550" alt="image" src="https://user-images.githubusercontent.com/105239325/216808389-a7be0391-2272-4c23-af0c-249f7317985d.png">
+
+Pri testovani jsem vsak zijstil, ze sance namornika na vyhru se zdvojnasobila. Krom zmenseni tabulky jsem udelal i dalsi upravy a vse jsem poctive otestoval (vsechny zmeny, krome tabulky jsem vyzkousel i na Ver. 1) a nakonec jsem zijstil, ze opravdu jen odstraneni casti tabulky, na ktereou by namornik nemel nikdy slapnout, nam snizovala (ve Ver. 1) sanci na vyhru o polovinu.
+
+## Pro se to deje? 🤔
+
+Je mozne, ze namornik se obcas spatne resetuje a jeho pozice ve vode se zapocitava k nezdarum. Neco se taky muze dit na te nejmensi vrstve, nekde v pameti, ale neco takoveho nejsem schopny zijsti. 
+
+# Ver. 1 VS Ver. 2
+
+Nemuzu posoudit, ktera verze je presnejsi, protoze takovy problem, se dvema verzemi, nemel vubec nastat. Pres vsechny problemy se, ale jedna o zajimavy ukol.
