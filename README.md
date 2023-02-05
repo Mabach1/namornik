@@ -32,7 +32,7 @@ Zde jsou [tabulky](https://docs.google.com/spreadsheets/d/1pEDCkVzpSHybAYuHYpAJt
 
 V druhe verzi programu 'namornik' je mozne upravovat i sirku mola. Pro upravu sirky mola jsem se zbavil orkaju tabulky, na ktere by se, teoreticky, nemel namornik nikdy dostat. Tabulka pro uprave s mole sirky 3 a dely 5 by pak vypadala nejak takto:
 
-<img width="550" alt="image" src="https://user-images.githubusercontent.com/105239325/216808389-a7be0391-2272-4c23-af0c-249f7317985d.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/105239325/216808389-a7be0391-2272-4c23-af0c-249f7317985d.png">
 
 Pri testovani jsem vsak zijstil, ze sance namornika na vyhru se zdvojnasobila. Krom zmenseni tabulky jsem udelal i dalsi upravy a vse jsem poctive otestoval (vsechny zmeny, krome tabulky jsem vyzkousel i na Ver. 1) a nakonec jsem zijstil, ze opravdu jen odstraneni casti tabulky, na ktereou by namornik nemel nikdy slapnout, nam snizovala (ve Ver. 1) sanci na vyhru o polovinu.
 
