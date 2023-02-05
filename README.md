@@ -1,4 +1,4 @@
-# Namornik (Ver. 1) ⛵
+# **Namornik (Ver. 1)** ⛵
 
 Opily namornik se musi dostat pres molo. Jak je sance, ze nespadne do vody?🌊
 
@@ -26,7 +26,7 @@ Zajimalo by vas, jaka je pravdepodobnost pri ruznych delkach mola, ale nechcete 
 
 Zde jsou [tabulky](https://docs.google.com/spreadsheets/d/1pEDCkVzpSHybAYuHYpAJt6x_jD3YWkuXaNvfHq2mxgU/edit?usp=sharing) s nekolika ruznymi delkami☺️
 
-# Namornik (ver. 2) 🚢
+# **Namornik (ver. 2)** 🚢
 
 ## Co je jine?
 
@@ -40,6 +40,6 @@ Pri testovani jsem vsak zijstil, ze sance namornika na vyhru se zdvojnasobila. K
 
 Je mozne, ze namornik se obcas spatne resetuje a jeho pozice ve vode se zapocitava k nezdarum. Neco se taky muze dit na te nejmensi vrstve, nekde v pameti, ale neco takoveho nejsem schopny zijsti. 
 
-# Ver. 1 VS Ver. 2
+# **Ver. 1 VS Ver. 2**
 
 Nemuzu posoudit, ktera verze je presnejsi, protoze takovy problem, se dvema verzemi, nemel vubec nastat. Pres vsechny problemy se, ale jedna o zajimavy ukol.
