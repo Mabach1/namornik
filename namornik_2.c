@@ -9,7 +9,7 @@
 
 #define NUM_OF_COMP 5000000                 // pocet kdy namornik spadne do vody, nebo dojde do cile
 
-#define SIRKA_MOLA  3
+#define SIRKA_MOLA  3                       // sirka mola, ktere namornik musi prejit
 
 #define X           (SIRKA_MOLA + 2)        // velikost tabulky v x
 #define Y           5                       // ! velikost tabulkt v y == ZDE LZE UPRAVIT DELKU MOLA ==
