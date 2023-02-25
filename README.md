@@ -38,7 +38,9 @@ Pri testovani jsem vsak zijstil, ze sance namornika na vyhru se zdvojnasobila. K
 
 ## Pro se to deje? 🤔
 
-Je mozne, ze namornik se obcas spatne resetuje a jeho pozice ve vode se zapocitava k nezdarum. Neco se taky muze dit na te nejmensi vrstve, nekde v pameti, ale neco takoveho nejsem schopny zijsti. 
+Odstranenim dvou sloupcu vody doslo k celkovemu posunuti tabulky, zmeneni indexu a tudiz i lehke zmene vypoctu. Je taky mozne, ze kdyz je namornik na jednom z rohu dojde k uprednostneni mola, jelikoz sance, ze spadne do vody je, kvuli odstraneni nekolika bunek vody, mensi.
+
+Velky problem je, ale pak samotna generace nahodnych cisel. Funkce rand() nemusi stihat a tudiz nedochazi k nalezite generaci.
 
 # **Ver. 1 VS Ver. 2**
 
